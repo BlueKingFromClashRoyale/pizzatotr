@@ -1,0 +1,30 @@
+
+body{
+    background-color: #dfbea2;
+    margin: 0;
+    padding: 20px;
+}
+
+h1{color: #000000;
+    font-size: 60px;
+    text-align: center;
+}
+
+
+p,h2{color: #000000;
+    font-size: 25px;
+    text-align: center;
+}
+
+a{color: #564c77;
+
+    text-align: center;
+}
+
+
+img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 20px auto;
+}
